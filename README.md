@@ -27,5 +27,5 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 - 📫 How to reach me: cameo221@gmail.com, or on Discord at Cammin#1689.
 - 😄 Pronouns: He/Him
 
-Check out my games on [cammin.itch.io](cammin.itch.io)
+Check out my games on [cammin.itch.io](https://cammin.itch.io/)
 
