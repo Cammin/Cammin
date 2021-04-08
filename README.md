@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Cameron Krebbers. I love the idea of making games. 
+My name is Cameron Krebbers. I love the idea of making games.  
 I'm mainly experienced in the Unity engine, but also past experience with GameMaker Studio 2 and Clickteam Fusion 2.5.
 
 - 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity).
