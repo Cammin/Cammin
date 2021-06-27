@@ -26,6 +26,7 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 - 🌱 I’m currently learning about Unity, generally; 2.5 Years in.
 - 📫 How to reach me: cameo221@gmail.com, or on Discord at Cammin#1689.
 - 😄 Pronouns: He/Him
+- 📆 I'm 21.
 
 Check out my games on [cammin.itch.io](https://cammin.itch.io/)
 
