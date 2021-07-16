@@ -24,8 +24,8 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 
 - 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) and some other projects in my free time.
 - 🌱 I’m currently learning about Unity, generally; 2.5 Years in.
-- 📫 How to reach me: cameo221@gmail.com, or on Discord at Cammin#1689.
-- 😄 Pronouns: He/Him
+- 📫 I can be reached at `cameo221@gmail.com`, or on Discord at `Cammin#1689`.
+- 🌎 I am from Vancouver, British Columbia, Canada.
 - 📆 I'm 21.
 
 Check out my games on [cammin.itch.io](https://cammin.itch.io/)
