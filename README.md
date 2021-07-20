@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-- 🤔 I’m looking for help with making documentation content for my LDtkToUnity project, if anyone would like to help out.
-- 💬 Ask me about help with Unity. I know a thing or two about the engine as a whole.
 -->
 
 ### Hi there 👋
@@ -22,7 +18,7 @@ Here are some ideas to get you started:
 My name is Cameron Krebbers. I love the idea of making games.  
 I'm mainly experienced in the Unity engine, but also past experience with GameMaker Studio 2 and Clickteam Fusion 2.5.
 
-- 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) and some other projects in my free time.
+- 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) in my free time.
 - 🌱 I’m currently learning about Unity, generally; 2.5 Years in.
 - 📫 I can be reached at `cameo221@gmail.com`, or on Discord at `Cammin#1689`.
 - 🌎 I am from Vancouver, British Columbia, Canada.
