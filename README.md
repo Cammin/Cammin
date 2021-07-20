@@ -27,6 +27,7 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 - 📫 I can be reached at `cameo221@gmail.com`, or on Discord at `Cammin#1689`.
 - 🌎 I am from Vancouver, British Columbia, Canada.
 - 📆 I'm 21.
+- ⚡ Fun fact: I can only appreciate music if it's appeared in a video game. Weird but true.
 
 Check out my games on [cammin.itch.io](https://cammin.itch.io/)
 
