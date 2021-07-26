@@ -25,6 +25,7 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 - 🌎 I am from Vancouver, British Columbia, Canada.
 - 📆 I'm 21.
 - ⚡ Fun fact: I can only appreciate music if it's appeared in a video game. Weird but true.
+- 🌩️ Also fun fact: I have aspergers, which is a high-functioning autism.
 
 Check out my games on [cammin.itch.io](https://cammin.itch.io/)
 
