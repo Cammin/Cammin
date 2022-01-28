@@ -30,5 +30,9 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 
 Check out my games on [cammin.itch.io](https://cammin.itch.io/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cammin)](https://github.com/Cammin/github-readme-streak-stats)
 [![Cammin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cammin&theme=github_dark)](https://github.com/Cammin/github-readme-stats)
+
+<!--
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cammin&layout=compact&theme=github_dark)
+-->
