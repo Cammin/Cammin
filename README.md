@@ -19,7 +19,7 @@ My name is Cameron Krebbers. I love the idea of making games.
 I'm mainly experienced in the Unity engine, but also past experience with GameMaker Studio 2 and Clickteam Fusion 2.5.
 
 - 🌥️ I'm currently striving to make very fun and polished game experiences!
-- 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) in my free time.
+- 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) and a game in my free time.
 - 🌱 I’m continuously focused on learning about Unity.
 - 🎮 In my pastime, I like playing games or watching Youtube.
 - 📫 I can be reached at `cameo221@gmail.com`, or on Discord at `Cammin#1689`.
