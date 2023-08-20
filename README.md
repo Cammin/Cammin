@@ -20,7 +20,7 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 
 - 🌥️ I strive to make fun game experiences!
 - 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) with the goal to make my own game with it.
-- 🌱 I have many learning/research goals. To improve on programming & design, and to pick up on making good music & art!
+- 🌱 I have many learning/research goals: Programming, Design, Music, Art!
 - 🎮 In my pastime, I like playing games or watching Youtube.
 - 📫 I can be reached at `cameo221@gmail.com`, or on Discord at `Cammin#1689`/`cammin`.
 - 🌎 I am from Vancouver, British Columbia, Canada.
