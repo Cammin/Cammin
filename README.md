@@ -23,7 +23,7 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 - 🌱 I have many learning/research goals: Programming, Design, Music, Art!
 - 🎮 In my pastime, I like playing games or watching Youtube.
 - 📫 I can be reached at `cameo221@gmail.com`, or on Discord at `Cammin#1689`/`cammin`.
-- 🌎 I am from Vancouver, British Columbia, Canada.
+- 🌎 I am from Vernon, British Columbia, Canada.
 - 📆 I'm 25.
 - ⚡ Fun fact: I can only appreciate music if it's appeared in a video game. Weird but true.
 - 🧠 Also fun fact: I have aspergers, which is a high-functioning autism.
