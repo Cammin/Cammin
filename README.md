@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 My name is Cameron Krebbers. I love the idea of making games.  
 I'm mainly experienced in the Unity engine, but also past experience with GameMaker Studio 2 and Clickteam Fusion 2.5.
 
+<!--
 - 🌥️ I strive to make fun game experiences!
 - 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) with the goal to make my own game with it.
 - 🌱 I have many learning/research goals: Programming, Design, Music, Art!
@@ -27,6 +28,7 @@ I'm mainly experienced in the Unity engine, but also past experience with GameMa
 - 📆 I'm 25.
 - ⚡ Fun fact: I can only appreciate music if it's appeared in a video game. Weird but true.
 - 🧠 Also fun fact: I have aspergers, which is a high-functioning autism.
+-->
 
 Check out my games on [cammin.itch.io](https://cammin.itch.io/)
 
