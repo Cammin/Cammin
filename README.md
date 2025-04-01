@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
 ### Hi there 👋
 
 My name is Cameron Krebbers. I love the idea of making games.  
 I'm mainly experienced in the Unity engine, but also past experience with GameMaker Studio 2 and Clickteam Fusion 2.5.
 
-<!--
+
 - 🌥️ I strive to make fun game experiences!
 - 🔭 I’m currently working on [LDtkToUnity](https://github.com/Cammin/LDtkUnity) with the goal to make my own game with it.
 - 🌱 I have many learning/research goals: Programming, Design, Music, Art!
